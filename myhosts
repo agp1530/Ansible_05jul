@@ -14,9 +14,14 @@
 172.31.13.21
 
 [ubuntuserver]
-172.31.13.205
+172.31.13.22
 
 
 [myRedHatserver]
-172.31.13.205
-172.31.13.205
+172.31.13.23
+
+
+[mywebservers:vars]
+mywebpackforubuntu= apache222222222222
+mywevpackforubuntu= httpd
+
